@@ -1,0 +1,40 @@
+.container
+{
+    text-align: center;
+}
+
+h1{
+    margin-top:50px;
+    color:rgb(45, 243, 157);
+    font-size:60px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.boxes{
+    height:180px;
+    width:180px;
+    background:#1f3540 ;
+    cursor: pointer;
+    border:2px solid;
+    border-radius:12px;
+    border-color: rgb(238, 163, 64);
+
+}
+.Board{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin-top: 30px;
+    background-color:rgb(89, 221, 79);
+    color:#1f3540;
+    width:130px;
+    height: 50px;
+    border:none;
+    border-radius: 12px;
+
+
+}
